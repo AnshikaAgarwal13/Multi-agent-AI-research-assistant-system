@@ -38,20 +38,6 @@ The system leverages agent orchestration pipelines and Generative AI workflows t
 
 The system uses a multi-agent pipeline architecture where specialized AI agents collaborate to automate research workflows.
 
-### Workflow Pipeline
-
-User Query
-↓
-Search Agent
-↓
-Reader Agent
-↓
-Writer Agent
-↓
-Critic Agent
-↓
-Final Research Output
-
 
 ## Core Functionalities
 
